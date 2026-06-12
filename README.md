@@ -51,16 +51,3 @@ docker rm calculadora
 ```
 
 <img width="876" height="101" alt="Captura de tela 2026-06-12 190529" src="https://github.com/user-attachments/assets/b4d1e980-7fba-404f-8e4b-6a29cf1a7fe1" />
-
-
-
-
-
-
-
-
-
-
-
-
-
